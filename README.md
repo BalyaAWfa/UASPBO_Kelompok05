@@ -8,5 +8,5 @@
 1. Berlian Dwi Putri 
 2. Danila Fitria
 3. Alya Rahmania
-4.Bata Nurul Awwalin
+4.Beta Nurul Awwalin
 5. Balya Ahmad Waffa
