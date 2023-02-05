@@ -1,9 +1,9 @@
 # UASPBO_Kelompok05
 
 
-// Aplikasi Rental Film
+✔ Aplikasi Rental Film
 
-#Anggota Kelompok
+# Anggota Kelompok
 
 1. Berlian Dwi Putri 
 2. Danial Fitria
