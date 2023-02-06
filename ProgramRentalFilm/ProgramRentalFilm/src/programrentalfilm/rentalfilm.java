@@ -31,15 +31,8 @@ public class rentalfilm extends javax.swing.JFrame{
         totalbayar.disable();
         hargasewa.disable();
         kembalian.disable();
-        
-        
-        nama.setText("");
-        nowa.setText("");
-        transaksi.setText("");
-        uangbayar.setText("");
-        kembalian.setText("");
-        hargasewa.setText("");
-    }
+           
+        }
     
     //Methot Tanggal
       public final void tampiltanggal (){
@@ -422,6 +415,13 @@ public class rentalfilm extends javax.swing.JFrame{
 
     private void baruActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_baruActionPerformed
         // TODO add your handling code here:
+        nama.setText("");
+        nowa.setText("");
+        transaksi.setText("");
+        uangbayar.setText("");
+        kembalian.setText("");
+        hargasewa.setText("");
+
     }//GEN-LAST:event_baruActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
